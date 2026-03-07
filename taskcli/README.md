@@ -1,5 +1,4 @@
 # Tasker CLI
-https://roadmap.sh/projects/task-tracker
 A simple command-line task manager that stores tasks in a local JSON file.
 
 ## Setup

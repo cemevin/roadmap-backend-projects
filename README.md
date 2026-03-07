@@ -4,9 +4,9 @@ Projects for the [roadmap.sh](https://roadmap.sh) backend track.
 
 ## Projects
 
-| # | Project | Description |
-|---|---|---|
-| 1 | [Task Tracker](./taskcli/) | CLI app to track your tasks and manage your to-do list. |
+| # | Project | Link | Description |
+|---|---|---|---|
+| 1 | [Task Tracker](./taskcli/) | https://roadmap.sh/projects/task-tracker | CLI app to track your tasks and manage your to-do list. |
 
 ## About
 
